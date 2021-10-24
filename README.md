@@ -1,11 +1,11 @@
 # uso
 
 uso de
--ngfor 
--ngif 
--uso evento click
--ngmodel
--pipe json
+1. ngfor 
+2. ngif 
+3. uso evento click
+4. ngmodel
+5. pipe json
 
 # Practicas
 
