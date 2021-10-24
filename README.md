@@ -1,3 +1,12 @@
+# uso
+
+uso de
+-ngfor 
+-ngif 
+-uso evento click
+-ngmodel
+-pipe json
+
 # Practicas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
